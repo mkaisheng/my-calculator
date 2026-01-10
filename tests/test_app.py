@@ -1,4 +1,4 @@
-    """Tests for calculator."""
+"""Tests for calculator."""
 
 import pytest
 from src.app import Calculator

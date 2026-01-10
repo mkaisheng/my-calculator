@@ -1,4 +1,4 @@
-    """Simple calculator application."""
+"""Simple calculator application."""
 
 class Calculator:
     @staticmethod
